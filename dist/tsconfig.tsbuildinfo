@@ -537,13 +537,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node-fetch/externals.d.ts": {
-        "version": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
-        "signature": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
+        "version": "208bb742e0f201470da121bc73847c74b62cff4172f38ae5949ae77d6c9c6b71",
+        "signature": "208bb742e0f201470da121bc73847c74b62cff4172f38ae5949ae77d6c9c6b71",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node-fetch/index.d.ts": {
-        "version": "9895aad6ad1d505e2b03c8e41c8643b60a813ad130eb68f843b736b2db7d42e1",
-        "signature": "9895aad6ad1d505e2b03c8e41c8643b60a813ad130eb68f843b736b2db7d42e1",
+        "version": "062bd2910098fc059ba93e347649b3e126c555f7b144033d21d3f8ef63d3e39b",
+        "signature": "062bd2910098fc059ba93e347649b3e126c555f7b144033d21d3f8ef63d3e39b",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts": {
