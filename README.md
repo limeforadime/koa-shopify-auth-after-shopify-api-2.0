@@ -1,3 +1,5 @@
+## A fork that addresses some of the breaking changes introduced in shopify-node-api v2.0, refer to [#253](https://github.com/Shopify/shopify-node-api/pull/253)
+
 # `@shopify/koa-shopify-auth`
 
 ![Build Status](https://github.com/Shopify/koa-shopify-auth/workflows/CI/badge.svg)

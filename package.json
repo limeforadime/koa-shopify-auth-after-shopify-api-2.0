@@ -19,10 +19,10 @@
   "author": "Shopify Inc.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/koa-shopify-auth.git"
+    "url": "git+https://github.com/limeforadime/koa-shopify-auth-after-shopify-api-2.0.git"
   },
   "bugs": {
-    "url": "https://github.com/Shopify/koa-shopify-auth/issues"
+    "url": "https://github.com/limeforadime/koa-shopify-auth-after-shopify-api-2.0/issues"
   },
   "homepage": "https://github.com/Shopify/koa-shopify-auth/blob/master/README.md",
   "dependencies": {
