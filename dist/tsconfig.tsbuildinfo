@@ -476,44 +476,34 @@
         "signature": "90528639dfb7adbf8274bea9471fa0118146b1c8c6bf16edc405cdfa8f068cde",
         "affectsGlobalScope": false
       },
-      "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts": {
-        "version": "aea5ac4b2b935752484c9a3f1bdeff3a232c6785bd2a39ab1c5270683b443331",
-        "signature": "aea5ac4b2b935752484c9a3f1bdeff3a232c6785bd2a39ab1c5270683b443331",
+      "../node_modules/@shopify/shopify-api/dist/auth/scopes/index.d.ts": {
+        "version": "f33f7eaaf2db20a66729570b9700b8fc041aec67467a5b49b7c2166f04fc9ad1",
+        "signature": "f33f7eaaf2db20a66729570b9700b8fc041aec67467a5b49b7c2166f04fc9ad1",
         "affectsGlobalScope": false
       },
-      "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": {
-        "version": "60ecabf22cf83b65d661fb0812699a4a126a335e2969b6a947a4b89dca36eee8",
-        "signature": "60ecabf22cf83b65d661fb0812699a4a126a335e2969b6a947a4b89dca36eee8",
+      "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts": {
+        "version": "6be2317c8d2a3882d9f2482c9275f90d183e70a8e101a0fa82c2e7d4157e43fa",
+        "signature": "6be2317c8d2a3882d9f2482c9275f90d183e70a8e101a0fa82c2e7d4157e43fa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts": {
+        "version": "910b1ee73353aa4c78da43978131bb32f9c72403bf615d61a5d3fa541cfad592",
+        "signature": "910b1ee73353aa4c78da43978131bb32f9c72403bf615d61a5d3fa541cfad592",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts": {
-        "version": "e71a1f223fb0583bc0e3d473c87b02580ed9688f15dcfe1dd33523b4964fa565",
-        "signature": "e71a1f223fb0583bc0e3d473c87b02580ed9688f15dcfe1dd33523b4964fa565",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": {
-        "version": "87ddb0ad76d9f4be4e8ba7de905cb446935eac0f872c4d209a43f556bf25f698",
-        "signature": "87ddb0ad76d9f4be4e8ba7de905cb446935eac0f872c4d209a43f556bf25f698",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": {
-        "version": "0ab12a84ff70f2a44c6d352a67effd0e6bcd56ded4fdfd459092a718f4b064e8",
-        "signature": "0ab12a84ff70f2a44c6d352a67effd0e6bcd56ded4fdfd459092a718f4b064e8",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts": {
-        "version": "0c09a96c51ff890db0d262451c7e5b1dfcc7b47cb6e2ce36f98bc14d4ed4b759",
-        "signature": "0c09a96c51ff890db0d262451c7e5b1dfcc7b47cb6e2ce36f98bc14d4ed4b759",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@shopify/shopify-api/dist/auth/scopes/index.d.ts": {
-        "version": "d0b1b3e4f829015780857e468953723e474110797ead378c750ce3a02a5135dd",
-        "signature": "d0b1b3e4f829015780857e468953723e474110797ead378c750ce3a02a5135dd",
+        "version": "5ce9ef164808fd75141534dc525b9d98c57dfe566400b869fd14560a095b5f74",
+        "signature": "5ce9ef164808fd75141534dc525b9d98c57dfe566400b869fd14560a095b5f74",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/base_types.d.ts": {
-        "version": "4834bcce12122f06dc2351efe97d15554c2c579e989b46e4fb6c3010901ea151",
-        "signature": "4834bcce12122f06dc2351efe97d15554c2c579e989b46e4fb6c3010901ea151",
+        "version": "10d2db5d25484e43294ce71564362850563dbd5435ebd0e7589df9b17f010a1e",
+        "signature": "10d2db5d25484e43294ce71564362850563dbd5435ebd0e7589df9b17f010a1e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/types.d.ts": {
+        "version": "033a2645fdf425b3f9b9178d43a0e1c94edb0b7f163501435cc333bba8ed9826",
+        "signature": "033a2645fdf425b3f9b9178d43a0e1c94edb0b7f163501435cc333bba8ed9826",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/network/build/ts/network.d.ts": {
@@ -537,13 +527,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node-fetch/externals.d.ts": {
-        "version": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
-        "signature": "972f1e91dab93b182624a17eeed02f683b8cb3fefbda7b689cc84570029d5f73",
+        "version": "208bb742e0f201470da121bc73847c74b62cff4172f38ae5949ae77d6c9c6b71",
+        "signature": "208bb742e0f201470da121bc73847c74b62cff4172f38ae5949ae77d6c9c6b71",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node-fetch/index.d.ts": {
-        "version": "9895aad6ad1d505e2b03c8e41c8643b60a813ad130eb68f843b736b2db7d42e1",
-        "signature": "9895aad6ad1d505e2b03c8e41c8643b60a813ad130eb68f843b736b2db7d42e1",
+        "version": "062bd2910098fc059ba93e347649b3e126c555f7b144033d21d3f8ef63d3e39b",
+        "signature": "062bd2910098fc059ba93e347649b3e126c555f7b144033d21d3f8ef63d3e39b",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts": {
@@ -566,14 +556,34 @@
         "signature": "646ce1e3cc93669356835a857c44ebb41da47d935e737ce42151acefd0b75870",
         "affectsGlobalScope": false
       },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": {
+        "version": "40d0c606cebe5358bb87a91e8f41e74b80fed3835755682254c970e478d13614",
+        "signature": "40d0c606cebe5358bb87a91e8f41e74b80fed3835755682254c970e478d13614",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": {
+        "version": "67773b332659cac792a0947e9251a001e45d9777275957629950527cc90c234a",
+        "signature": "67773b332659cac792a0947e9251a001e45d9777275957629950527cc90c234a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": {
+        "version": "f2613e1f314c8e77e11cdaaceaa7c29f558ae4b2da4feed3cb61671385eecd82",
+        "signature": "f2613e1f314c8e77e11cdaaceaa7c29f558ae4b2da4feed3cb61671385eecd82",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts": {
+        "version": "3ab07137187097df7d54b7eae7e1d07f15f1abaa101cff6731fbf809052c1158",
+        "signature": "3ab07137187097df7d54b7eae7e1d07f15f1abaa101cff6731fbf809052c1158",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts": {
-        "version": "1270db901d4c367bc65d9f88c6e78a6d438b3f66d2abc80d87e7e65640a69ec3",
-        "signature": "1270db901d4c367bc65d9f88c6e78a6d438b3f66d2abc80d87e7e65640a69ec3",
+        "version": "d0fa31dc6d4cbcced1b15665b38d0861b2c027926965b7f0b1e45e5ef5f457ae",
+        "signature": "d0fa31dc6d4cbcced1b15665b38d0861b2c027926965b7f0b1e45e5ef5f457ae",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts": {
-        "version": "9dc5dcee05135bcc50f1494bd6c850792613e5bffb1b43af98e488032b134e0a",
-        "signature": "9dc5dcee05135bcc50f1494bd6c850792613e5bffb1b43af98e488032b134e0a",
+        "version": "8995674b77d6fa88efb588b919a693bc9ef50626f1f84b95d21899a0a068a751",
+        "signature": "8995674b77d6fa88efb588b919a693bc9ef50626f1f84b95d21899a0a068a751",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts": {
@@ -597,23 +607,28 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/webhooks/types.d.ts": {
-        "version": "f4ea0c5b16a7c59cf095f2a19599f2e835e476018fdce7db12c47313419ccd18",
-        "signature": "f4ea0c5b16a7c59cf095f2a19599f2e835e476018fdce7db12c47313419ccd18",
+        "version": "6b52cd8b0801275363bb26db353248abebf8950826f0046d664a577ba959e0d1",
+        "signature": "6b52cd8b0801275363bb26db353248abebf8950826f0046d664a577ba959e0d1",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/types.d.ts": {
-        "version": "205b5c68a1e093b9f9c491c576eae8064a13d979190e927fdaa5b755811f145f",
-        "signature": "205b5c68a1e093b9f9c491c576eae8064a13d979190e927fdaa5b755811f145f",
+        "version": "03f8bf101ce1fe52dcd098ffda404b6d60ce280e29b525b334842f08977fface",
+        "signature": "03f8bf101ce1fe52dcd098ffda404b6d60ce280e29b525b334842f08977fface",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/context.d.ts": {
-        "version": "548a2c9d9493937135f4b301fddadef2aaf5992108ac53a0fb4723b970c48b6b",
-        "signature": "548a2c9d9493937135f4b301fddadef2aaf5992108ac53a0fb4723b970c48b6b",
+        "version": "e50c13e85f0cc5134dc867e7265b2057b9df03ae5471a0fe599861a81d389e1b",
+        "signature": "e50c13e85f0cc5134dc867e7265b2057b9df03ae5471a0fe599861a81d389e1b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/storefront_client.d.ts": {
+        "version": "6a4b28300c7d7a877f735ffde1c7498ded2ee74278999e738b09888f33064034",
+        "signature": "6a4b28300c7d7a877f735ffde1c7498ded2ee74278999e738b09888f33064034",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/utils/decode-session-token.d.ts": {
-        "version": "426651cd6efd3266a58b77dfa7c8f0d825da6a93d27fc0d962093f799143d81d",
-        "signature": "426651cd6efd3266a58b77dfa7c8f0d825da6a93d27fc0d962093f799143d81d",
+        "version": "76773ce3277daa400637100be30331d124af3600828e3685dd6e5792db246bd8",
+        "signature": "76773ce3277daa400637100be30331d124af3600828e3685dd6e5792db246bd8",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/utils/delete-current-session.d.ts": {
@@ -657,13 +672,18 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/utils/hmac-validator.d.ts": {
-        "version": "b14e7452b294179f648f4609bfd296b2ab72e65d12b447ad22faccef109bfa0e",
-        "signature": "b14e7452b294179f648f4609bfd296b2ab72e65d12b447ad22faccef109bfa0e",
+        "version": "b6322ef7128c0e65d1735dc7ed0eed91876e54d404bb9067c293b7ddc1e5bc4d",
+        "signature": "b6322ef7128c0e65d1735dc7ed0eed91876e54d404bb9067c293b7ddc1e5bc4d",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts": {
         "version": "3c3023e5edf139f61af1bc759f19acf999e932297e1467cebe2c5934fae632e0",
         "signature": "3c3023e5edf139f61af1bc759f19acf999e932297e1467cebe2c5934fae632e0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/shopify-api/dist/utils/version-compatible.d.ts": {
+        "version": "d58ced51557f2a277f6158b82458dc77943d30783e17dd0c8498be44bdf1b529",
+        "signature": "d58ced51557f2a277f6158b82458dc77943d30783e17dd0c8498be44bdf1b529",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/utils/with-session.d.ts": {
@@ -672,13 +692,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts": {
-        "version": "c548ca08765aa47f497da1818ab7e3dcb9b79aaee1e507bdee24e83a5853d7d5",
-        "signature": "c548ca08765aa47f497da1818ab7e3dcb9b79aaee1e507bdee24e83a5853d7d5",
+        "version": "38f3be4b28d5087316cf4ab132c316a581f8b188c9cc12360d985676bf3597e3",
+        "signature": "38f3be4b28d5087316cf4ab132c316a581f8b188c9cc12360d985676bf3597e3",
         "affectsGlobalScope": false
       },
       "../node_modules/@shopify/shopify-api/dist/index.d.ts": {
-        "version": "22dd516eee7d37f06b2fad390b729d966cf213f5672bdc14260d80ac7eb7f0ed",
-        "signature": "22dd516eee7d37f06b2fad390b729d966cf213f5672bdc14260d80ac7eb7f0ed",
+        "version": "2c521688a5f42b755c23e04331792bcdab573bf7e7c2fa7fd4afc2963cf5546f",
+        "signature": "2c521688a5f42b755c23e04331792bcdab573bf7e7c2fa7fd4afc2963cf5546f",
         "affectsGlobalScope": false
       },
       "../src/auth/client/polaris-css.ts": {
@@ -742,7 +762,7 @@
         "affectsGlobalScope": false
       },
       "../src/auth/index.ts": {
-        "version": "04f8964da60f698e903d3f2becabc9a94485842fcc8218ab9bb9cf5b231389b5",
+        "version": "e460cfa772ff6274094018d03dcec95f457d53e9e2e769d6fb7512f6261c0698",
         "signature": "3771db2d3a105b248f7f5c9798fe4eeca1340c95a7a00196f2aa5bbae1d426e3",
         "affectsGlobalScope": false
       },
@@ -831,28 +851,39 @@
         "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/base_types.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/auth/scopes/index.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/storefront_client.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts": [
@@ -883,13 +914,14 @@
       ],
       "../node_modules/@shopify/shopify-api/dist/context.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/auth/scopes/index.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
         "../node_modules/@shopify/shopify-api/dist/base_types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/index.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
         "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/storefront_client.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts",
         "../node_modules/@shopify/shopify-api/dist/context.d.ts",
         "../node_modules/@shopify/shopify-api/dist/error.d.ts",
@@ -905,13 +937,14 @@
         "../node_modules/@shopify/shopify-api/dist/utils/safe-compare.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/version-compatible.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/with-session.d.ts",
         "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts",
         "../node_modules/@types/node/http.d.ts",
         "../node_modules/@types/node/index.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/types.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/base_types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/types.d.ts",
@@ -945,6 +978,9 @@
         "../node_modules/@shopify/shopify-api/dist/clients/rest/index.d.ts",
         "../node_modules/@types/node/http.d.ts",
         "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/version-compatible.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/base_types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/utils/with-session.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/utils/types.d.ts"
@@ -1358,28 +1394,39 @@
         "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/auth/types.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/base_types.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/auth/scopes/index.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts"
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/storefront_client.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts": [
@@ -1410,13 +1457,14 @@
       ],
       "../node_modules/@shopify/shopify-api/dist/context.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/auth/scopes/index.d.ts",
-        "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
         "../node_modules/@shopify/shopify-api/dist/base_types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/index.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/auth/session/index.d.ts",
         "../node_modules/@shopify/shopify-api/dist/auth/session/session.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/clients/graphql/storefront_client.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/rest/rest_client.d.ts",
         "../node_modules/@shopify/shopify-api/dist/context.d.ts",
         "../node_modules/@shopify/shopify-api/dist/error.d.ts",
@@ -1432,13 +1480,14 @@
         "../node_modules/@shopify/shopify-api/dist/utils/safe-compare.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/utils/version-compatible.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/with-session.d.ts",
         "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts",
         "../node_modules/@types/node/http.d.ts",
         "../node_modules/@types/node/index.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/types.d.ts": [
-        "../node_modules/@shopify/shopify-api/dist/auth/oauth/types.d.ts",
+        "../node_modules/@shopify/shopify-api/dist/auth/types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/base_types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/clients/types.d.ts",
         "../node_modules/@shopify/shopify-api/dist/utils/types.d.ts",
@@ -1472,6 +1521,9 @@
         "../node_modules/@shopify/shopify-api/dist/clients/rest/index.d.ts",
         "../node_modules/@types/node/http.d.ts",
         "../node_modules/@types/node/index.d.ts"
+      ],
+      "../node_modules/@shopify/shopify-api/dist/utils/version-compatible.d.ts": [
+        "../node_modules/@shopify/shopify-api/dist/base_types.d.ts"
       ],
       "../node_modules/@shopify/shopify-api/dist/utils/with-session.d.ts": [
         "../node_modules/@shopify/shopify-api/dist/utils/types.d.ts"
@@ -1843,9 +1895,12 @@
       "../node_modules/@shopify/shopify-api/dist/auth/session/session_storage.d.ts",
       "../node_modules/@shopify/shopify-api/dist/auth/session/storage/custom.d.ts",
       "../node_modules/@shopify/shopify-api/dist/auth/session/storage/memory.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/session/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/auth/types.d.ts",
       "../node_modules/@shopify/shopify-api/dist/base_types.d.ts",
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/graphql_client.d.ts",
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/index.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/clients/graphql/storefront_client.d.ts",
       "../node_modules/@shopify/shopify-api/dist/clients/graphql/types.d.ts",
       "../node_modules/@shopify/shopify-api/dist/clients/http_client/http_client.d.ts",
       "../node_modules/@shopify/shopify-api/dist/clients/http_client/types.d.ts",
@@ -1869,6 +1924,7 @@
       "../node_modules/@shopify/shopify-api/dist/utils/shop-validator.d.ts",
       "../node_modules/@shopify/shopify-api/dist/utils/store-session.d.ts",
       "../node_modules/@shopify/shopify-api/dist/utils/types.d.ts",
+      "../node_modules/@shopify/shopify-api/dist/utils/version-compatible.d.ts",
       "../node_modules/@shopify/shopify-api/dist/utils/with-session.d.ts",
       "../node_modules/@shopify/shopify-api/dist/webhooks/registry.d.ts",
       "../node_modules/@shopify/shopify-api/dist/webhooks/types.d.ts",
