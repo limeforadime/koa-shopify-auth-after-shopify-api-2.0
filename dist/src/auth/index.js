@@ -77,10 +77,7 @@ function createShopifyAuth(options) {
                         return [4 /*yield*/, shopify_api_1.default.Auth.validateAuthCallback(ctx.req, ctx.res, ctx.query)];
                     case 8:
                         session = _a.sent();
-                        // ctx.state.shopify = await Shopify.Utils.loadCurrentSession(ctx.req, ctx.res, config.accessMode === 'online');
                         ctx.state.shopify = session;
-                        console.log('ctx.state.shopify: ');
-                        console.log(JSON.stringify(ctx.state.shopify));
                         if (!config.afterAuth) return [3 /*break*/, 10];
                         return [4 /*yield*/, config.afterAuth(ctx)];
                     case 9:
